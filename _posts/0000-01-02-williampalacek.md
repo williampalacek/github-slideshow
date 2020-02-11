@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Cheese
+chicken
 Use the left arrow to go back!
